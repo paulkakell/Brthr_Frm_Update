@@ -22,3 +22,5 @@ The script will connect to the printer, retrieve its firmware version, and compa
 `The remote Brother printer is NOT running the latest firmware version. An update is recommended.`  
 `Do you want to download and install the latest firmware? (Y/N): Y`  
 `Firmware file downloaded`  
+`Uploading firmware file to the printer...`  
+`Firmware update process has started. Please wait for the printer to reboot and complete the update.`  
